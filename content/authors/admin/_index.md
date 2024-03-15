@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Chigladze Maiia Vladislavovna
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Чигладзе Майя Владиславовна
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Maiia Vladislavovna
+last_name: Chigladze
 
 # Status emoji
 status:
@@ -17,35 +17,32 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: RUDN student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Russian University of People`s Friendship
+    url: https://eng.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include math, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Programming
+  - Digital design
+  - Reading
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
+    - course: Yandex Practicum Mobile Development
+      institution: Yandex
+      year: 2023
+    - course: Digigtal Design 
+      institution: Engish schoold of Design
+      year: 2020
+ 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
@@ -53,36 +50,52 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 15
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: Java
         description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
+        percent: 70
+        icon: java
+        icon_pack: fab
       - name: SQL
         description: ''
-        percent: 40
+        percent: 60
         icon: database
         icon_pack: fas
+      - name: C++
+        description: ''
+        percent: 60
+        icon: c-circle-fill
+        icon_pack: bootstrap
+      - name: Adobe Illustrator
+        description: ''
+        percent: 90
+        icon: adobeillustrator
+        icon_pack: simple-icons
+      - name: Adobe Photoshop
+        description: ''
+        percent: 75
+        icon: adobephotoshop
+        icon_pack: simple-icons
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Vidio-games
         description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
+        percent: 90
+        icon: gamepad-2
+        icon_pack: lucide
+      - name: Reading
         description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
+        percent: 50
+        icon: book-open
+        icon_pack: feather
       - name: Photography
         description: ''
-        percent: 80
+        percent: 20
         icon: camera-retro
         icon_pack: fas
 
@@ -94,31 +107,14 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://github.com/LaMeru
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Chigladze Maiia Vladislavovna is a student of applied computer science at the Russian University of People`s Friends>
 {style="text-align: justify;"}
+
